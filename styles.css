@@ -1,0 +1,112 @@
+body{
+  margin:0;
+  text-align: center;
+ font-family: 'Lobster', cursive;
+}
+h1{
+font-family: 'Pacifico', cursive;
+margin-top: 75px auto 0 auto;
+font-size: 5.625em;
+color: #66BFBF;
+}
+.top-container{
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top:100px;
+
+}
+h2{
+  font-family: 'Bangers', cursive;
+  color: #66BFBF;
+  font-weight: lighter;
+  font-size: 2.65em;
+
+}
+h3{
+  font-family: 'Bangers', cursive;
+      color:  #11999E;
+}
+.top-cloud{
+  position: absolute;
+  right:330px;
+  top:50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+bottom:350px;
+}
+.middle-container{
+  background-color: #cde0dc;
+  position: relative;
+}
+.karen{
+  border-radius: 50%;
+}
+.right{
+  position: absolute;
+  right: 175px;
+
+}
+.left{
+  position: absolute;
+  left: 175px;
+}
+.giphy{
+  border-radius: 10%;
+}
+.bottom-container{
+  background-color: #b6c7c4;
+}
+.footer-link{
+  color:  #11999E;
+}
+/*
+<div class="snow" />
+<style>
+.editor-stage .snow {
+  height:50px;
+  background: #fff;
+}
+span{
+  text-decoration: underline;
+}
+.snow{
+  position:fixed;
+  pointer-events:none;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  height:100vh;
+  background: none;
+  background-image: url('https://s3-eu-west-1.amazonaws.com/static-ressourcs/s1.png'), url('https://s3-eu-west-1.amazonaws.com/static-ressources/s2.png'), url('https://s3-eu-west-1.amazonaws.com/static-ressources/s3.png');
+  z-index:100;
+  -webkit-animation: snow 10s linear infinite;
+  -moz-animation: snow 10s linear infinite;
+  -ms-animation: snow 10s linear infinite;
+  animation: snow 10s linear infinite;
+}
+@keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-moz-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 400px 1000px, 200px 400px, 100px 300px;}
+}
+@-webkit-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-ms-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+</style>
+<p>
+*/
